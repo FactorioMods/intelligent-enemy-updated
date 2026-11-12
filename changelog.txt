@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.8
+Date: 2026-11-12
+  Compatibility:
+    - Supports Factorio 2.1 with the original gameplay, prototype names and settings.
+    - metadata Factorio2.1 minimum base2.1.24

@@ -1,0 +1,24 @@
+{
+  "name": "intelligent-enemy-updated",
+  "version": "1.0.8",
+  "title": "Intelligent Enemy: Updated",
+  "factorio_version": "2.1",
+  "author": "plexpt",
+  "contact": "youremail@example.com",
+  "homepage": "https://github.com/FactorioMods/intelligent-enemy-updated",
+  "description": "Enhance the enemy AI with smarter and more challenging adversaries, similar to Rampant. This mod does not introduce new enemy types or increase enemy attributes; it solely focuses on improving the intelligence of existing enemies. Updated for Factorio 2.1; retains original prototype and setting names.",
+  "dependencies": [
+    "base >= 2.1.24",
+    "? space-age",
+    "? Arachnids",
+    "? ArmouredBiters",
+    "? Big-Monsters",
+    "? Cold_biters",
+    "? Explosive_biters",
+    "? SchallEndgameEvolution",
+    "! intelligent-enemy"
+  ],
+  "migrates_from": [
+    "intelligent-enemy"
+  ]
+}

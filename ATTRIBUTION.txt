@@ -1,0 +1,5 @@
+Original mod: intelligent-enemy
+Original author: plexpt
+Original release: https://mods.factorio.com/mod/intelligent-enemy
+Compatibility fork: https://github.com/FactorioMods/intelligent-enemy-updated
+Original source credits and licenses remain applicable.
